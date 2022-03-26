@@ -1,0 +1,24 @@
+{
+  "name": "portofolijo2022_3.0",
+  "version": "1.0.0",
+  "description": "Personal Frontend Webdeveloper Portfolio",
+  "main": "index.js",
+  "scripts": {
+    "watch": "webpack --watch"
+  },
+  "keywords": [
+    "portfolio",
+    "frontend"
+  ],
+  "author": "Zeljko Damnjanovic",
+  "license": "ISC",
+  "devDependencies": {
+    "css-loader": "^6.7.1",
+    "html-webpack-plugin": "^5.5.0",
+    "sass": "^1.49.9",
+    "sass-loader": "^12.6.0",
+    "style-loader": "^3.3.1",
+    "webpack": "^5.70.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
